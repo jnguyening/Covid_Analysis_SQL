@@ -4,5 +4,5 @@ This repository contains SQL scripts and documentation for analyzingand visualiz
 
 ## About
 
-The COVID-19 pandemic has generated a wealth of data related to cases, testing, vaccinations, and more. This project aims to provide SQL-based tools and scripts for analyzing COVID-19 data efficiently.
+The COVID-19 pandemic has generated a wealth of data related to cases, testing, vaccinations, and more. This project aims to provide SQL-based tools and scripts for analyzing COVID-19 data.
 
