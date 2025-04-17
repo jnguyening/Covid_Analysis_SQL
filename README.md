@@ -8,4 +8,4 @@ The COVID-19 pandemic has generated a wealth of data related to cases, testing, 
 
 ## Note
 
-The Dashboard for this project can be found on my Tableau Public Profile, found here: https://public.tableau.com/app/profile/john.nguyen3007#!/?newProfile=&activeTab=0
+The Dashboard for this project can be found on my Tableau Public Profile, found here: https://public.tableau.com/app/profile/john.nguyen3007/viz/COVIDDashboard_16591278640660/Dashboard1
