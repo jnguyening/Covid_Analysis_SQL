@@ -6,7 +6,3 @@ This public health study utilizes MS SQL Server to analyze a massive global data
 
 
 A live Tableau dashboard showcasing the insights from this analysis can be accessed here: [COVID-19 Dashboard](https://public.tableau.com/app/profile/john.nguyen3007/viz/COVIDDashboard_16591278640660/Dashboard1)
-
-## Tools Used
-* SQL: Microsoft SQL Server (MSSQL)
-* Tableau: Data visualization & dashboarding
